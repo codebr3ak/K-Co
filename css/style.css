@@ -11800,7 +11800,8 @@ a.read_more i {
     overflow: hidden;
     padding: 0;
     position: absolute;
-    top: 0
+    top: 0;
+    /* width: 50%; */
 }
 
 .side-bg .background-image {
